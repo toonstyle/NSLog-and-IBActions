@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B90CB6D-E7C6-4596-A0CC-20F0C0542043</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IBOutlets &amp; IBActions</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>28231B0F-5193-4F98-8F4F-2DB14BBD70BB</key>
+		<string>ssh://github.com/toonstyle/NSLog-and-IBActions.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IBOutlets &amp; IBActions/IBOutlets &amp; IBActions.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>28231B0F-5193-4F98-8F4F-2DB14BBD70BB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/toonstyle/NSLog-and-IBActions.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>28231B0F-5193-4F98-8F4F-2DB14BBD70BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>28231B0F-5193-4F98-8F4F-2DB14BBD70BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NSLog-and-IBActions</string>
+		</dict>
+	</array>
+</dict>
+</plist>
